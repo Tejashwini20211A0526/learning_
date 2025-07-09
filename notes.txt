@@ -1,0 +1,14 @@
+<Tag> vs element 
+
+Anything inside a angular bracket is Tag
+<h1> Hello </h1>
+opening tag and closing tag
+heading from h1 to h6 
+
+//install live preview to view the output 
+and run
+
+//Paragraph elememts
+<p>
+
+//web hosting
